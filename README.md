@@ -4,7 +4,7 @@
 게임 객체에 필요한 스크립트 파일들임
 
 
-- play link game (make by me): https://play.unity.com/en/games/bcc9a53f-85a3-47c8-a9a4-477b79d0b0f2/kimchi-run-by%EF%BB%BF 
+- play link game (made by me): https://play.unity.com/en/games/bcc9a53f-85a3-47c8-a9a4-477b79d0b0f2/kimchi-run-by%EF%BB%BF 
 
 - tutorial youtube link: https://youtu.be/A58_FWqiekI?si=tITvfM2tG5Wt-F4W
 
